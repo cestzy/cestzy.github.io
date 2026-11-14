@@ -60,7 +60,7 @@ const Work = () => {
 
                 {/* CERTIFICATION LINK BUTTON */}
                 <a 
-                  href="https://drive.google.com/file/d/1o8KkScn9nsiIK4wxmvzgIijcKWZ_Ph7j/view?usp=sharing" 
+                  href="https://drive.google.com/file/d/1MdrBr3h7gPa_X_zGh1VfmMsS5Hpw5lby/view?usp=sharing" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-xs font-semibold text-white bg-pink-600 hover:bg-pink-700 px-4 py-2 rounded-full transition-all duration-200 shadow-md hover:scale-105"
